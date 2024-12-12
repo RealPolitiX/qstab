@@ -2,6 +2,8 @@
 
 The repo includes code to assess the robustness of large language models (LLMs) in biomedical question answering (QA). A collection of generalist and specialist LLMs are assessed.
 
+This repo contains only the code for sampling-based attack, for the benchmark using the variant of discreteZOO, or the zeroth-order optimization-based attack used in the manuscript, please see [discretezoo-span](https://github.com/RealPolitiX/discretezoo-span).
+
 ### Installation
 
 Clone the code repo. Go to the `qstab-main` folder, install using the following from the command line
